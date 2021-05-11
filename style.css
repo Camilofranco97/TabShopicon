@@ -60,6 +60,20 @@
     background-color:#212529!important;
 }
 
+.bg-light{
+    background-color: #d7d9db75!important;
+}
+
+.btn{
+    color: #fff;
+    font-weight: bold;
+    background-color: #d8976d;
+}
+
+.btn-outline-secondary{
+    border-color: black;
+}
+
 /*
 * Extra utilities
 */
